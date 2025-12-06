@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mallikarjuna Sarana 👋
+
+🚀 Full Stack Developer at Infosys | Specialized in Java, Spring Boot, React, and Cloud-Native Microservices  
+
+- 🔐 Experienced in authentication flows, rate limiting (Redis), and secure enterprise middleware  
+- ☸️ Skilled in Kubernetes, secrets management, and event-driven architectures  
+- 💬 Passionate about knowledge sharing, teaching, and making complex topics accessible  
+- 📈 Explored advanced backend concepts like transaction isolation & propagation  
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mallikarjunagupta-s-g-m-r-n-s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSwi4DYPSQ0%2BNWzE5NJexVg%3D%3D) | [GitHub](https://github.com/saranamalli) | [LeetCode](https://leetcode.com/u/saranamalli694/)
 
 <!--
 **saranamalli/saranamalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
